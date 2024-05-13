@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nusaybah383
-- 👀 I’m interested in Data science,Design thinking and Food Safety
-- 🌱 I’m currently learning Business analystics at Udacity,Design thinking at IBM and proceeding for Masters soon
+- 👀 I’m interested in Data science and Food Safety
+- 🌱 I’m currently pursuing a master's in food quality and control
 - 💞️ I’m looking to collaborate on Data science and Food 
 - 📫 How to reach me oiza1435@gmail.com
 
